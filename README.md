@@ -1,5 +1,4 @@
-# Guardian Firewall GUI - README
-
+# Guardian Firewall 
 ## 1. Overview
 The Guardian Firewall GUI is a lightweight, user-friendly network security tool designed to monitor and filter network traffic in real-time. Built using Python and Tkinter, it offers an intuitive graphical interface for managing firewall rules and logging packets, with integration into Linux's iptables for rule enforcement.
 
